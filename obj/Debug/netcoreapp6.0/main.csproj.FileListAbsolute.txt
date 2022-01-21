@@ -1,0 +1,10 @@
+/home/runner/AgileHotpinkScope/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/AgileHotpinkScope/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/AgileHotpinkScope/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/AgileHotpinkScope/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/AgileHotpinkScope/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/Analog-Clock/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/Analog-Clock/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Analog-Clock/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/Analog-Clock/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/Analog-Clock/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
